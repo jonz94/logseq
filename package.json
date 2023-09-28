@@ -112,7 +112,6 @@
         "dompurify": "2.4.0",
         "electron": "24.6.3",
         "electron-dl": "3.3.0",
-        "fs": "0.0.1-security",
         "fs-extra": "9.1.0",
         "fuse.js": "6.4.6",
         "grapheme-splitter": "1.0.4",
